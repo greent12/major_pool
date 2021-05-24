@@ -1,0 +1,4 @@
+Website, https://www.espn.com/golf/leaderboard
+Event, PGA Championship
+output Directory, /Users/tylergreen/PGALiveLeaderboard
+CUT, 5

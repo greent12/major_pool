@@ -1,0 +1,7 @@
+datetime
+os
+sys
+requests
+bs4
+scipy
+

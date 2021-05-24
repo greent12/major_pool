@@ -1,0 +1,158 @@
+  1 Dustin Johnson
+  2 Justin Thomas
+  3 Jon Rahm
+  4 Xander Schauffele
+  5 Bryson DeChambeau
+  6 Collin Morikawa
+  7 Rory McIlroy
+  8 Patrick Reed
+  9 Tyrrell Hatton
+ 10 Webb Simpson
+ 11 Viktor Hovland
+ 12 Patrick Cantlay
+ 13 Brooks Koepka
+ 14 Tony Finau
+ 15 Hideki Matsuyama
+ 16 Daniel Berger
+ 17 Matthew Fitzpatrick
+ 18 Billy Horschel
+ 19 Abraham Ancer
+ 20 Paul Casey
+ 21 Lee Westwood
+ 22 Harris English
+ 23 Sungjae Im
+ 24 Scottie Scheffler
+ 25 Cameron Smith
+ 26 Jordan Spieth
+ 27 Matthew Wolff (NOT IN FIELD)
+ 28 Tommy Fleetwood
+ 29 Joaquin Niemann
+ 30 Will Zalatoris
+*********************************************
+ 31 Louis Oosthuizen
+ 32 Ryan Palmer
+ 33 Victor Perez
+ 34 Kevin Na
+ 35 Jason Kokrak
+ 36 Sam Burns
+ 37 Marc Leishman
+ 38 Adam Scott
+ 39 Corey Conners
+ 40 Max Homa
+ 41 Christiaan Bezuidenhout
+ 42 Justin Rose
+ 43 Stewart Cink
+ 44 Kevin Kisner
+ 45 Robert MacIntyre
+ 46 Sergio Garcia
+ 47 Brian Harman
+ 48 Shane Lowry
+ 49 Matt Kuchar
+ 50 Siwoo Kim
+ 51 Garrick Higgo
+ 52 Matt Wallace
+ 53 Gary Woodland
+ 54 Carlos Ortiz
+ 55 Bubba Watson
+ 56 Matt Jones
+ 57 Russell Henley
+ 58 Mackenzie Hughes
+ 59 Kyounghoon Lee
+ 60 Brendon Todd
+ 61 Lanto Griffin
+ 62 Bernd Wiesberger
+ 63 Chris Kirk
+ 64 Kevin Streelman
+ 65 Jason Day
+ 66 Cameron Tringale
+ 67 Ian Poulter
+ 68 Joel Dahmen
+ 69 Rikuya Hoshino
+ 70 Andy Sullivan
+ 71 Sebastian J Munoz
+ 72 Talor Gooch
+ 73 Keegan Bradley
+ 74 Antoine Rozner
+ 75 Charley Hoffman
+ 76 Emiliano Grillo
+ 77 Takumi Kanaya
+ 78 Erik van Rooyen
+ 79 Daniel van Tonder
+ 80 John Catlin
+ 81 Dylan Frittelli
+ 82 Brendan Steele
+ 83 Chan Kim
+ 84 Harold Varner III
+ 85 Adam Long
+ 86 Sam Horsfield
+ 87 Brandon Stone
+ 88 J.T. Poston
+ 89 Dean Burmester
+ 90 Aaron Rai
+ 91 Danny Willett
+ 92 Branden Grace
+ 93 Martin Kaymer
+ 94 Thomas Pieters
+ 95 Cameron Champ
+ 96 George Coetzee
+ 97 Lucas Herbert
+ 98 Thomas Detry
+ 99 Alex Noren
+100 Sami Valimaki
+101 Martin Laird
+102 Rasmus Hojgaard
+104 Maverick McNealy
+106 Kurt Kitayama
+107 Adam Hadwin
+109 Charl Schwartzel
+111 Jazz Janewattananond
+112 Kalle Samooja
+113 Tom Hoge
+114 Richy Werenski
+115 Phil Mickelson
+116 Tom Lewis
+117 Chez Reavie
+118 Jason Scrivener
+119 Byeong Hun An
+121 Zach Johnson
+125 Robert Streb
+127 Cameron Davis
+128 Rickie Fowler
+130 Henrik Stenson
+136 Aaron Wise
+143 Jim Herman
+144 Francesco Molinari
+150 Wyndham Clark
+154 Harry Higgs
+163 Denny McCarthy
+174 Peter Malnati
+194 Hudson Swafford
+232 Brian Gay
+240 Steve Stricker
+257 Padraig Harrington
+409 Jason Dufner
+528 Jimmy Walker
+672 Y.E. Yang
+ UK Rich Beem
+ UK John Daly
+ UK Rob Labritz
+ UK Shaun Micheel
+ UK Joe Summerhays
+ UK Omar Uresti
+ UK Frank Bensel Jr.
+ UK Stuart Smith
+ UK Sonny Skinner
+ UK Danny Balin
+ UK Ben Polland
+ UK Alex Beach
+ UK Ben Cook
+ UK Tyler Collet
+ UK Peter Ballo
+ UK Mark Geddes
+ UK Larkin Gross
+ UK Derek Holmes
+ UK Greg Koch
+ UK Brad Marek
+ UK Tim Pearce
+ UK Patrick Rada
+ UK Brett Walker
